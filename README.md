@@ -392,3 +392,8 @@ website https://kraal-bloom-connect.lovable.app/
 
 MIT © StellarKraal
 .
+
+## Handsoff notes
+
+<!-- handsoff-issue-1225 -->
+- #1225: fix(backend): fix N+1 query on loans list when joining collateral
